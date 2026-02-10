@@ -1,6 +1,6 @@
 name: PR Branch Check
 
-on:
+#on:
   # Using pull_request_target instead of pull_request for secure handling of fork PRs
 #  pull_request_target:
     # Only run on these PR events
